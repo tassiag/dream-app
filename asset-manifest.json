@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dream-app/static/css/main.f705cd30.chunk.css",
+    "main.js": "/dream-app/static/js/main.ab0b15ed.chunk.js",
+    "main.js.map": "/dream-app/static/js/main.ab0b15ed.chunk.js.map",
+    "runtime-main.js": "/dream-app/static/js/runtime-main.3e6fb47f.js",
+    "runtime-main.js.map": "/dream-app/static/js/runtime-main.3e6fb47f.js.map",
+    "static/js/2.b328f3b7.chunk.js": "/dream-app/static/js/2.b328f3b7.chunk.js",
+    "static/js/2.b328f3b7.chunk.js.map": "/dream-app/static/js/2.b328f3b7.chunk.js.map",
+    "static/js/3.5f035439.chunk.js": "/dream-app/static/js/3.5f035439.chunk.js",
+    "static/js/3.5f035439.chunk.js.map": "/dream-app/static/js/3.5f035439.chunk.js.map",
+    "index.html": "/dream-app/index.html",
+    "static/css/main.f705cd30.chunk.css.map": "/dream-app/static/css/main.f705cd30.chunk.css.map",
+    "static/js/2.b328f3b7.chunk.js.LICENSE.txt": "/dream-app/static/js/2.b328f3b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6fb47f.js",
+    "static/js/2.b328f3b7.chunk.js",
+    "static/css/main.f705cd30.chunk.css",
+    "static/js/main.ab0b15ed.chunk.js"
+  ]
+}
